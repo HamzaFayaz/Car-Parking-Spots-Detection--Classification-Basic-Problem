@@ -1,0 +1,19 @@
+Best.pt    ----> This model is trained on yolov8n and this model the most accurate model is all the three models
+		 its test Accuray is approx 99.86% 
+		 but this model have 99 layer which make them a larger model with repect to other and its 
+		 Required a lot of cumputional power with repect to the Two
+
+
+ 
+my_model.5   -----> This  Model is trained In tensorflow keras its a three layer model and its accuray in test data is approx 98.5%
+		     is model is much simpler then the yolov8n 
+
+
+model  ----->         This model is the simplest model is all of three its simple a classification model and also its accuray is good 
+			I use this model is model to predict the data in this project but you can use what model you want
+
+
+
+
+ Notes :   All the three models are trained and  use of diffrent FrameWork So the predict method is not same for all
+
