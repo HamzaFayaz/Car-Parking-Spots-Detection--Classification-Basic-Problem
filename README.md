@@ -56,5 +56,10 @@ This project aims to detect and classify car parking spots as either empty or no
 1. Monitor the model’s performance in real-time.
 2. Collect feedback and retrain the model with new data regularly.
 3. Optimize the system for low latency to ensure real-time detection.
-4.
+
+### How To use It:
+First Understand the Approach The Project Because this is not genralize Project It specfic 
+It work only for the Video which is provide with thw project 
+For Your Use You Have Your Own Video and mask for that You Have to Trained the 
+Model The model Training code is avaible in Models folder
 
